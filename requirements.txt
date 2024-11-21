@@ -1,0 +1,12 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+DateTime==5.5
+dnspython==2.7.0
+idna==3.10
+pymongo==4.10.1
+pyTelegramBotAPI==4.24.0
+pytz==2024.2
+requests==2.32.3
+setuptools==75.6.0
+urllib3==2.2.3
+zope.interface==7.1.1
